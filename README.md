@@ -17,7 +17,7 @@ It's built with React and Tailwind CSS
 ## Demo
 
 Here is how the site looks like
-[link](modalcard-mockup.netlify.app)
+[link](https://modalcard-mockup.netlify.app)
 
 ## Credit
 
