@@ -14,6 +14,11 @@ It's built with React and Tailwind CSS
 - Styling
 - Static Pages
 
+## Demo
+
+Here is how the site looks like
+[link](modalcard-mockup.netlify.app)
+
 ## Credit
 
 This project idea is from [Scrimba React Course](https://scrimba.com/learn/learnreact) with Bob Ziroll
