@@ -3,10 +3,13 @@ function About() {
     <div className="mt-2 text-left p-1">
       <h2 className="font-bold text-xl">About</h2>
       <p className="tracking-tight">
-        Hey! My name is Bruno, and i wish i could now eeeeeverything abou how
-        the computers works, because i'm in love of programming languages, and
-        this is not what i want to write but there's nothing right now on my
-        mind and i need this text. Thanks!
+        Sed scelerisque venenatis ante ut fringilla. Nullam ullamcorper nisl
+        leo, porta fringilla nisl accumsan eu. Sed ante ante, vestibulum quis
+        elit id, sodales maximus dui. Nulla nec malesuada mauris. Vivamus
+        finibus, velit ac pellentesque accumsan, lacus metus auctor nisi, et
+        placerat ex massa at erat. Quisque molestie urna ut arcu ultrices
+        blandit. Morbi aliquet sapien elit, eget ornare ante faucibus et. Mauris
+        interdum consequat tellus, et facilisis odio pellentesque sed.
       </p>
     </div>
   );

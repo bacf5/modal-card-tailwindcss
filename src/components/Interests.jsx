@@ -3,8 +3,7 @@ function Interests() {
     <div className="mt-2 text-left p-1">
       <h3 className="font-bold text-xl">Interests</h3>
       <p className="tracking-tight">
-        i'm in love of programming languages, and this is not what i want to
-        write but there's nothing right now on my mind
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius scelerisque mauris eu tempus. Integer feugiat augue velit, id sagittis turpis placerat eget. Donec iaculis urna vitae mauris facilisis semper. 
       </p>
     </div>
   );

@@ -6,7 +6,7 @@ import Interests from './components/Interests';
 
 function App() {
   return (
-    <div className="p-8 max-w-sm mx-auto bg-white rounded-xl shadow-lg items-center space-x-4">
+    <div className="p-6 mt-8 max-w-sm mx-auto bg-white rounded-xl shadow-lg items-center space-x-2">
       <div>
         <Info />
       </div>
